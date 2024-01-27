@@ -1,6 +1,6 @@
 landmark
 peter
 paul
-akere
+ma
 lum
 tom
